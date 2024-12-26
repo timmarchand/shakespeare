@@ -1,7 +1,7 @@
 
 # Functions ---------------------------------------------------------------
 
-source("R/functions.R")
+source("r_docs/shakespeare_functions.R")
 
 # Romeo and Juliet --------------------------------------------------------
 
